@@ -6,15 +6,15 @@ Breve descripcion
 
 ## Tabla de contenido
 
--[Caracteristicas](#caracteristicas)
--[Tecnologias](#tecnologias)
--[Requerimientos](#requerimientos)
--[Instalacion](#instalacion)
+- [Caracteristicas](#caracteristicas)
+- [Tecnologias](#tecnologias)
+- [Requerimientos](#requerimientos)
+- [Instalacion](#instalacion)
 
 ## Caracteristicas
--Funcionalidad 1
--Funcionalidad 2
--Funcionalidad 3
+- Funcionalidad 1
+- Funcionalidad 2
+- Funcionalidad 3
 
 ---
 

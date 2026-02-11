@@ -1,6 +1,6 @@
 # Proyecto de uso de herramientas GIT con contribuyentes
 
-Breve descripcion
+linea para hacer conflitos
 
 ---
 
